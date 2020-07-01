@@ -1,9 +1,76 @@
-@media only screen and (max-width:768){
+@media only screen and (max-width:768px){
   .header-area{
-    height: 600px;
+    height: 500px;
   }
   #mt {
-    margin-top: 50px;
+    margin-top: 70px;
   }
 
+  #pic {
+    margin-top: 80px;
+  }
+  #mt-txt h1 {
+    margin-top: 100px;
+  }
+  .bio-area{
+    height: 700px;
+  }
+  .work-area{
+    height: 400px;
+  }
+  .work-area h1 {
+    padding-top:40px;
+  }
+  .container {
+    width: 90%;
+  }
+  .pic img {
+   
+    height: 170px;
+  }
+
+}
+@media only screen and (max-width:650px){
+  .box {
+    width: 400px;
+    height: 100px;
+}
+.box p {
+  margin-top: 20px;
+}
+.pic img {
+  
+  height: 140px;
+}
+@media only screen and (max-width:480px){
+  #pic {
+    margin-top: 100px;
+}
+.half-area h1 {
+  font-size: 35px;
+  font-weight: 400;
+}
+#mt-txt h1 {
+  font-size: 35px;
+}
+#mt-txt p {
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+.button {
+  padding: 6px 20px;
+font-size: 12px;
+}
+.bio-area{
+  height: 600px;
+  margin-top:50px;
+}
+.half-area p {
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+.pic img {
+  
+  height: 110px;
+}
 }
