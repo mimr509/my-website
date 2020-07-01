@@ -43,7 +43,7 @@
   height: 140px;
 }
 #mt-txt h1 {
-  font-size: 35px;
+  font-size: 30px;
 }
 @media only screen and (max-width:480px){
   #pic {
@@ -54,7 +54,7 @@
   font-weight: 400;
 }
 #mt-txt h1 {
-  font-size: 35px;
+  font-size: 30px;
 }
 #mt-txt p {
   font-size: 14px;
