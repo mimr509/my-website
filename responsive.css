@@ -42,6 +42,9 @@
   
   height: 140px;
 }
+#mt-txt h1 {
+  font-size: 35px;
+}
 @media only screen and (max-width:480px){
   #pic {
     margin-top: 100px;
