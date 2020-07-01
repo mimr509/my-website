@@ -1,0 +1,9 @@
+@media only screen and (max-width:768){
+  .header-area{
+    height: 600px;
+  }
+  #mt {
+    margin-top: 50px;
+  }
+
+}
